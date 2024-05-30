@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io</id>
-    <title></title>
+    <title>Journal of ZYJ&amp;LL</title>
     <subtitle></subtitle>
     <icon>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/images/favicon.ico</icon>
     <link href="https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io" />
@@ -29,5 +29,17 @@
 &lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
 </content>
         <updated>2024-05-29T10:46:21.101Z</updated>
+    </entry>
+    <entry>
+        <id>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/2013/12/26/demo/</id>
+        <title>Images</title>
+        <link rel="alternate" href="https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/2013/12/26/demo/"/>
+        <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2311325.jpg&#34; alt=&#34;Caption&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-878514.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://placehold.it/350x150.jpg&#34; alt=&#34;Small Picture&#34; /&gt;&lt;/p&gt;
+</content>
+        <updated>2013-12-26T14:46:49.000Z</updated>
     </entry>
 </feed>
