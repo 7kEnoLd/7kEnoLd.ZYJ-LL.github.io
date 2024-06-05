@@ -5,28 +5,28 @@
         <link>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Wed, 05 Jun 2024 09:59:49 +0000</pubDate>
-        <lastBuildDate>Wed, 05 Jun 2024 09:59:49 +0000</lastBuildDate>
+        <pubDate>Wed, 05 Jun 2024 20:41:12 +0000</pubDate>
+        <lastBuildDate>Wed, 05 Jun 2024 20:41:12 +0000</lastBuildDate>
+        <category>夸夸其谈</category>
         <item>
-            <guid isPermalink="true">https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/posts/4a17b156.html</guid>
-            <title>Hello World</title>
-            <link>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/posts/4a17b156.html</link>
-            <pubDate>Wed, 05 Jun 2024 09:59:49 +0000</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;/7kEnoLd.ZYJ-LL.github.io/assets/css/APlayer.min.css&#34;&gt;&lt;script src=&#34;/7kEnoLd.ZYJ-LL.github.io/assets/js/APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;/7kEnoLd.ZYJ-LL.github.io/assets/js/Meting.min.js&#34;&gt;&lt;/script&gt;&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/writing.html&#34;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/server.html&#34;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/generating.html&#34;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
- ]]></description>
+            <guid isPermalink="true">https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/posts/6ce80684.html</guid>
+            <title>老张考过科目一了，夸夸她</title>
+            <link>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/posts/6ce80684.html</link>
+            <category>夸夸其谈</category>
+            <pubDate>Wed, 05 Jun 2024 20:41:12 +0000</pubDate>
+            <description><![CDATA[ &lt;div class=&#34;tip home&#34;&gt;&lt;p&gt;亲爱的老张：&lt;br&gt;
+展信佳！这封信拿来夸你考过科目一，我要夸夸夸，不是夸夸其谈。&lt;br&gt;
+定理 1，老张可以高分通过科目一考试。&lt;br&gt;
+证明：从硬性条件，学习态度和外部因素三方面展开。&lt;br&gt;
+一，硬性条件。首先，我的老张聪明伶俐，脑容量大，脑子转得快。从平时的相处来看，这是显而易见的，因为她既可以在短短半天时间解决何思佳和老大解决不了的救援列车问题，也可以对唐雨诗的 “可变领域算法” 信手拈来。其次，老张对交警这个职业神往已久，她对扣分的执着转化成了她对驾照的渴望。当这份渴望遇上她的天分，那轻松地通过考试也就不足为奇了。&lt;br&gt;
+二，学习态度。老张以勤奋学习著称。卷是妒忌者的诋毁，努力是欣赏者的赞美。你去过凌晨四点的综合楼厕所，在 731 实验室奋笔疾书，在回宿舍的路灯下披头散发。一路披星戴月，背题的声音被舍友误以为在说梦话。好了，言尽于此，我可是每天都在 731 看着她学习的。&lt;br&gt;
+三，外部因素。首先是科目一自身特征，科目一作为中国机动车驾驶员考试的第一关，有驾考拦路虎的美誉，尤其是在四川这样一个驾驶规则复杂题库量大的地区。但是四川的科目一需要记忆的点多，灵活运用的点多，特别适合踏实刻苦练习，且脑子活泛的复习策略，与前面的一二点相印证。其次，老张实验室各种各样的杂事，这也给她带来了考验，但是她合理的计划时间，既照顾了实验室情绪，也没有耽误备考，时间不是她海绵里挤出来的水，她的海绵里全是水。&lt;br&gt;
+综上，硬性条件 + 学习态度 + 外部因素 = 科目一 97 分。&lt;br&gt;
+证毕。&lt;br&gt;
+引理 1，我永远是我家老张的铁粉！&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;你亲爱的小刘
+2024.5.31&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt; ]]></description>
         </item>
     </channel>
 </rss>
