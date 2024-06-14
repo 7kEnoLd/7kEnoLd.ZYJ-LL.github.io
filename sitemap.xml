@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/tags/index.html</loc>
+    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/worldScenery/index.html</loc>
     
-    <lastmod>2024-06-13</lastmod>
+    <lastmod>2024-06-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,34 +13,16 @@
   <url>
     <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/manifest.json</loc>
     
-    <lastmod>2024-06-13</lastmod>
+    <lastmod>2024-06-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/posts/80890ba8.html</loc>
+    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/tags/index.html</loc>
     
-    <lastmod>2024-06-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/posts/f4aa3569.html</loc>
-    
-    <lastmod>2024-06-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/posts/6ce80684.html</loc>
-    
-    <lastmod>2024-06-13</lastmod>
+    <lastmod>2024-06-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +31,52 @@
   <url>
     <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/categories/index.html</loc>
     
-    <lastmod>2024-06-13</lastmod>
+    <lastmod>2024-06-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/dailyPhoto/index.html</loc>
+    
+    <lastmod>2024-06-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/posts/80890ba8.html</loc>
+    
+    <lastmod>2024-06-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/posts/f4aa3569.html</loc>
+    
+    <lastmod>2024-06-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/posts/6ce80684.html</loc>
+    
+    <lastmod>2024-06-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/album/index.html</loc>
+    
+    <lastmod>2024-06-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +85,7 @@
 
   <url>
     <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io</loc>
-    <lastmod>2024-06-13</lastmod>
+    <lastmod>2024-06-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,21 +93,21 @@
   
   <url>
     <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/tags/%E4%B8%8D%E5%90%90%E4%B8%8D%E5%BF%AB/</loc>
-    <lastmod>2024-06-13</lastmod>
+    <lastmod>2024-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/tags/%E7%90%86%E6%80%A7%E4%B8%8E%E6%84%9F%E6%80%A7/</loc>
-    <lastmod>2024-06-13</lastmod>
+    <lastmod>2024-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/tags/%E5%A4%B8%E5%A4%B8%E5%85%B6%E8%B0%88/</loc>
-    <lastmod>2024-06-13</lastmod>
+    <lastmod>2024-06-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
