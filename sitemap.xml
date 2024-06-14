@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/worldScenery/index.html</loc>
-    
-    <lastmod>2024-06-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/manifest.json</loc>
     
     <lastmod>2024-06-14</lastmod>
@@ -29,16 +20,7 @@
   </url>
   
   <url>
-    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/categories/index.html</loc>
-    
-    <lastmod>2024-06-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/dailyPhoto/index.html</loc>
+    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/worldScenery/index.html</loc>
     
     <lastmod>2024-06-14</lastmod>
     
@@ -75,6 +57,24 @@
   
   <url>
     <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/album/index.html</loc>
+    
+    <lastmod>2024-06-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/categories/index.html</loc>
+    
+    <lastmod>2024-06-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://7kenold.github.io/7kEnoLd.ZYJ-LL.github.io/dailyPhoto/index.html</loc>
     
     <lastmod>2024-06-14</lastmod>
     
